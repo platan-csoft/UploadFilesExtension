@@ -1,0 +1,6 @@
+C:\Program Files (x86)\CSoft\TDMS Server 5.0\Extensions\UploadFilesExtension\UploadFilesExtension.schedule
+C:\Program Files (x86)\CSoft\TDMS Server 5.0\Extensions\UploadFilesExtension\UploadFilesExtension.config
+C:\Users\plotnikov\Desktop\Новая папка (2)\new samples\UploadFilesExtension\obj\Debug\UploadFilesExtension.csprojAssemblyReference.cache
+C:\Users\plotnikov\Desktop\Новая папка (2)\new samples\UploadFilesExtension\obj\Debug\UploadFilesExtension.csproj.CoreCompileInputs.cache
+C:\Users\plotnikov\Desktop\Новая папка (2)\new samples\UploadFilesExtension\obj\Debug\UploadFilesExtension.dll
+C:\Users\plotnikov\Desktop\Новая папка (2)\new samples\UploadFilesExtension\obj\Debug\UploadFilesExtension.pdb

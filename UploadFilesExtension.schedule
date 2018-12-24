@@ -1,0 +1,13 @@
+<schedules version="1.0">
+  
+  <schedule name="UploadFilesExtensionService.UploadFiles" enabled="true" module="UploadFilesExtension">
+    <trigger>
+      <day startTime="08:00" endTime="23:00"/>
+    </trigger>
+    <task>
+      <command name="Tdms.Extensions.UploadFilesExtension.UploadFilesExtensionService" method="UploadFiles"/>
+    </task>
+  </schedule>
+
+</schedules>
+
